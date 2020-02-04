@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e6a8ecd-08e0-4d90-9900-f963504c2eba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pycharmDjangotest/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/pycharmDjangotest/view.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/bak.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bak.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,6 +163,7 @@
       <workItem from="1580096174270" duration="3377000" />
       <workItem from="1580786782130" duration="41000" />
       <workItem from="1580787267520" duration="22000" />
+      <workItem from="1580787842471" duration="30000" />
     </task>
     <servers />
   </component>

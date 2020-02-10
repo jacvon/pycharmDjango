@@ -20,4 +20,7 @@ from pycharmDjangotest import view
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('home/', view.home),
+    path('process_data/', view.process_data),
+    path('show_progress1/', view.show_progress1),
+    path('show_progress/', view.show_progress)
 ]
